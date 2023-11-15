@@ -5,7 +5,8 @@
 body {
   font-family: 'Manrope', sans-serif;
   font-size: 1em;
-  background-color: #6d70ca;
+  background-image: url('0safr93ogd5b1.jpg');
+  background-size: cover;
 }
 
 a {
@@ -139,4 +140,8 @@ nav a {
 }
 video{
   width: 300px;
+}
+
+audio{
+  width: 300;
 }
